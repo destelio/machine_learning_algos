@@ -1,8 +1,6 @@
 # machine_learning_algos
 a collection of working examples of machine learning algorithms
 
-🔥 React + Github Issues 👉 Your Personal Blog
-
 I will add comments in future commits so that people can follow easier my work.
 
 ### K Means Real Estate Data.ipynb
